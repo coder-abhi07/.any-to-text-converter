@@ -1,6 +1,6 @@
 # qpaper
 
-* Get a List of Frequently Asked Questions from Previous Year Exam Papers Using Uploaded Files
+* Get the text out of your files
 
 # DEMO
 
